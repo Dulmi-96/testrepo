@@ -1,0 +1,28 @@
+h1, h2{
+    color: red;    
+}
+strong, i{
+    color: red;
+}
+
+tr td{
+    color: blue;
+}
+form label{
+    color: blue;
+}
+.twtr{
+    color: red;
+}
+fieldset legend{
+    color: blue;
+}
+#first{
+    color: red;
+}
+form input{
+    color: red;
+}
+#cir{
+    color: red;
+}

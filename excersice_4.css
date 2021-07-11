@@ -1,0 +1,44 @@
+h1, h2{
+    color: red; 
+    opacity: 0.6px;
+    
+}
+strong, i{
+    color: red;
+    text-decoration: underline;
+    font-size: x-large;
+    color: black;
+}
+
+tr td{
+    color: blue;
+}
+form label{
+    color: blue;
+    color: black;
+    font-weight: bold;
+}
+.twtr{
+    color: red;
+    color: aqua;
+    text-decoration: none;
+}
+fieldset legend{
+    color: blue;
+    color: black;
+    font-weight: bold;
+}
+#first{
+    color: red;
+}
+form input{
+    color: red;
+    background-color: lightpink;
+}
+#cir{
+    color: red;
+    color: black;
+}
+table td, #first{
+    color: black;
+}

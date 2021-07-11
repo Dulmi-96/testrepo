@@ -1,0 +1,23 @@
+h1{
+    margin: 15px;
+}
+.page{
+    background-color: lightgoldenrodyellow;
+    width: 700px;
+    height: 760px;
+    border: 5px solid maroon;
+    margin-left: 300px;  
+    
+    
+}
+img{
+    border: 10px solid orange;
+    border-style: outset;
+    margin: 15px;
+}
+#fx{
+    border: 10px;
+    border-color: orange;
+    border-style: dashed;
+    margin: 15px;
+}
